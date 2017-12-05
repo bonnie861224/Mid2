@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(a);
             }
         });
-        Button b2 =(Button) findViewById((R.id.button));
+        Button b2 =(Button) findViewById((R.id.button2));
         b2.setOnClickListener(new Button.OnClickListener(){
             public void onClick(View view){
                 Intent b =new Intent();
@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(b);
             }
         });
-        Button b3 =(Button) findViewById((R.id.button));
+        Button b3 =(Button) findViewById((R.id.button3));
         b3.setOnClickListener(new Button.OnClickListener(){
             public void onClick(View view){
                 Intent c =new Intent();
@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(c);
             }
         });
-        Button b4 =(Button) findViewById((R.id.button));
+        Button b4 =(Button) findViewById((R.id.button4));
         b4.setOnClickListener(new Button.OnClickListener(){
             public void onClick(View view){
                 Intent d =new Intent();
@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(d);
             }
         });
-        Button b5 =(Button) findViewById((R.id.button));
+        Button b5 =(Button) findViewById((R.id.button5));
         b5.setOnClickListener(new Button.OnClickListener(){
             public void onClick(View view){
                 Intent e =new Intent();
@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(e);
             }
         });
-        Button b6 =(Button) findViewById((R.id.button));
+        Button b6 =(Button) findViewById((R.id.button6));
         b6.setOnClickListener(new Button.OnClickListener(){
             public void onClick(View view){
                 Intent f =new Intent();
@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(f);
             }
         });
-        Button b7 =(Button) findViewById((R.id.button));
+        Button b7 =(Button) findViewById((R.id.button7));
         b7.setOnClickListener(new Button.OnClickListener(){
             public void onClick(View view){
                 Intent g =new Intent();
@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(g);
             }
         });
-        Button b8 =(Button) findViewById((R.id.button));
+        Button b8 =(Button) findViewById((R.id.button8));
         b8.setOnClickListener(new Button.OnClickListener(){
             public void onClick(View view){
                 Intent h =new Intent();
